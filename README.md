@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm **Afraz Khan**, an **AI Engineer** currently working at **ACE Money Transfer**. I specialize in **machine learning, deep learning, and AI-powered solutions** to drive business impact.  
+👋 Hello, I'm **Afraz Khan**, an **AI Engineer**. I specialize in **machine learning, deep learning, and AI-powered solutions** to drive business impact.  
 
 🚀 **Quick Facts**  
 🎓 **Degree**: Computer Science (University of Punjab)  
