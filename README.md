@@ -3,7 +3,7 @@
 
 🚀 **Quick Facts**  
 🎓 **Degree**: Computer Science (University of Punjab)  
-🏢 **Current Role**: AI Engineer at ACE Money Transfer  
+🏢 **Current Role**: AI Engineer at Ophycare  
 🌱 **Skills**: Machine Learning, NLP, Computer Vision, Model Optimization  
 🛠 **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenCV  
 
