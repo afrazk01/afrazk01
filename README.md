@@ -29,9 +29,7 @@
 ✅ **Version Control** - Meta  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afrazk01&theme=dark&hide_border=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=afrazk01&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrazk01&theme=dark&hide_border=false&layout=compact)  
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=afrazk01)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
