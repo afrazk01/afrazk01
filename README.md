@@ -1,39 +1,42 @@
-# 💫 About Me:
-👋 Hello, I'm **Afraz Khan**, an **AI Engineer**. I specialize in **machine learning, deep learning, and AI-powered solutions** to drive business impact.  
+<div align="center">
+  <h1>Afraz Khan</h1>
+  <p><strong>Senior AI Engineer at Wispa Digital · Founder of <a href="https://epochc.com/">EpochC</a></strong></p>
+  <p>I build AI systems that run in production: agents, retrieval pipelines, document intelligence, and the APIs behind them.</p>
+  <p><a href="https://www.linkedin.com/in/afraz-k-a40b82242/">LinkedIn</a> · <a href="https://www.upwork.com/freelancers/~01e8b978eff9b50043">Upwork</a> · <a href="mailto:afrazkhan1407@gmail.com">Email</a></p>
+</div>
 
-🚀 **Quick Facts**  
-🎓 **Degree**: Computer Science (University of Punjab)  
-🏢 **Current Role**: AI Engineer at Ophycare  
-🌱 **Skills**: Machine Learning, NLP, Computer Vision, Model Optimization  
-🛠 **Tech Stack**: Python, TensorFlow, PyTorch, Scikit-learn, Hugging Face, OpenCV  
+## What I'm working on
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afraz-k-a40b82242/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/afrazk01)  
+At **Wispa Digital**, I design LangGraph agents for competitor research, marketing ideas, SEO analysis, and brand-aware content workflows. I also help the development team integrate AI features into production applications.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFCC00.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)  
-![OpenCV](https://img.shields.io/badge/OpenCV-%2300497B.svg?style=for-the-badge&logo=OpenCV&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+Through **EpochC**, I build agent, RAG, and document-AI systems for healthcare and fintech teams. [Start a project →](https://epochc.com/#contact)
 
-# 🏆 Certifications:
-✅ **Programming for Everybody** - Coursera  
-✅ **Python for Data Science, AI & Development** - IBM  
-✅ **Supervised Machine Learning: Regression & Classification** - DeepLearning.AI  
-✅ **Advanced Learning Algorithms** - DeepLearning.AI  
-✅ **Version Control** - Meta  
+## Selected work
 
-# 📊 GitHub Stats:
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=afrazk01)](https://github.com/pranesh-2005/github-readme-stats-fast)
+| Project | What I built | Outcome |
+| --- | --- | --- |
+| [Clinical multi-agent API](https://epochc.com/case-studies/clinical-multi-agent-api/) | A LangGraph orchestrator over GPT-4o that routes requests to notes, eligibility, records-RAG, and routing agents. | 80% less code; zero citation hallucinations. |
+| [AI medical scribe](https://epochc.com/case-studies/ai-medical-scribe/) | Real-time diarized transcription, structured extraction, and confidence-scored form autofill. | 10+ forms filled per consult; hours saved per provider daily. |
+| [KYC document automation](https://epochc.com/case-studies/kyc-ocr-automation/) | Document classification, OCR, and face matching for customer onboarding. | €40k/yr cost removed; 98% field accuracy; 70% less compute. |
 
-### ✍️ Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+## Stack
 
----
+- **LLMs and agents:** LangGraph, LangChain, OpenAI, Hugging Face
+- **Retrieval:** pgvector, BM25 hybrid search, Neo4j
+- **Vision and speech:** PyTorch, YOLOv8, PaddleOCR, OpenCV, DeepFace, Deepgram
+- **Backend and data:** Python, FastAPI, PostgreSQL, SQLAlchemy, Redis, MongoDB
+- **Delivery and observability:** Docker, GitHub Actions, AWS, Langfuse, LangSmith
 
+## GitHub activity
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afrazk01/afrazk01/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afrazk01/afrazk01/output/github-snake.svg" />
+    <img alt="Animated snake moving through Afraz Khan's GitHub contribution graph" src="https://raw.githubusercontent.com/afrazk01/afrazk01/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <p>Based in Islamabad, Pakistan · B.S. Computer Science, University of the Punjab</p>
+</div>
